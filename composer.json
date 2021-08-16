@@ -1,0 +1,14 @@
+{
+    "require": {
+        "sendpulse/rest-api": "dev-master",
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sinergy\\": "src/"
+        }
+    }
+}
