@@ -1,5 +1,5 @@
 {
-    "name": "vl-shulyk/SinergyAPI",
+    "name": "vl-shulyk/sinergyapi",
     "description": "Простая обертка для работы с API Sinergy",
     "keywords": [ "amocrm", "crm", "api", "api-wrapper", "oauth2", "throttling", "logging" ],
     "homepage": "https://github.com/vl-shulyk/SinergyAPI",
