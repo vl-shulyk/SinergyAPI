@@ -1,4 +1,17 @@
 {
+    "name": "vl-shulyk/SinergyAPI",
+    "description": "Простая обертка для работы с API Sinergy",
+    "keywords": [ "amocrm", "crm", "api", "api-wrapper", "oauth2", "throttling", "logging" ],
+    "homepage": "https://github.com/vl-shulyk/SinergyAPI",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vl-shulyk",
+            "homepage": "https://github.com/vl-shulyk",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "sendpulse/rest-api": "dev-master",
         "php": ">=7.0",
